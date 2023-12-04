@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @farhanrkt
-- 👀 I’m interested in Music, Games, Language, Anime and stuff
+- 👀 I can relate to you in every single thing, be it animes, music, games, history, politics, religions, and other stuff.
 - 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on creative content
 - 📫 How to reach me farhanrangki@gmail.com
 
 <!---
